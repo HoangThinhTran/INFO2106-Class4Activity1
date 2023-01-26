@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: mistyrose;
+	font-family: arial;
+}
+li a {
+    text-decoration: none;
+}
+li {
+    display: inline;
+	padding: 10px;
+}
+nav {
+	text-align: center;
+	background-color: cadetblue;
+	padding: 10px;
+}
+img {
+	width: 300px;
+	height: 300px;
+}
+footer {
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 30px;
+}
